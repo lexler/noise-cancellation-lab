@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stash", "Stash\Stash.csproj", "{3C1D7A2E-5B64-4F1A-9E0C-2A7D8B6F4E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stash.Tests", "Stash.Tests\Stash.Tests.csproj", "{8E2F4B1C-7D93-4A6E-B5F0-1C9D3E7A2B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1D7A2E-5B64-4F1A-9E0C-2A7D8B6F4E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1D7A2E-5B64-4F1A-9E0C-2A7D8B6F4E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1D7A2E-5B64-4F1A-9E0C-2A7D8B6F4E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1D7A2E-5B64-4F1A-9E0C-2A7D8B6F4E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2F4B1C-7D93-4A6E-B5F0-1C9D3E7A2B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2F4B1C-7D93-4A6E-B5F0-1C9D3E7A2B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2F4B1C-7D93-4A6E-B5F0-1C9D3E7A2B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2F4B1C-7D93-4A6E-B5F0-1C9D3E7A2B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
